@@ -1,0 +1,3 @@
+,<lora:hanfu_all:0.55>,(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.2),Swimsuit, long legs, cute, naughty, 4k, bedroom, long white hair, cos game crash: The stardom railway character, Clara, is sitting in front of the audience.
+Negative prompt: ng_deepnegative_v1_75t, (badhandv4:1.2), (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)) watermark, moles
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 7.0, Seed: 1842404794, Size: 768x1024, Model hash: 33c9f6dfcb, Model: majicmixRealistic_v5, Seed resize from: -1x-1, Denoising strength: 0
